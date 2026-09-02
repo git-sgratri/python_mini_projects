@@ -1,4 +1,4 @@
-[PROJECT IDEA][https://roadmap.sh/projects/task-tracker]
+[PROJECT IDEA](https://roadmap.sh/projects/task-tracker)
 
 The list of commands and their usage is given below:
 
