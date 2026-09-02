@@ -1,5 +1,3 @@
-[PROJECT IDEA](https://roadmap.sh/projects/task-tracker)
-
 The list of commands and their usage is given below:
 
 bash
@@ -30,3 +28,6 @@ python task_tracker_cli.py list done
 python task_tracker_cli.py list todo
 
 python task_tracker_cli.py list in-progress
+
+
+(https://roadmap.sh/projects/task-tracker)
