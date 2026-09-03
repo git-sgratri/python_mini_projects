@@ -9,6 +9,9 @@ def main():
     url = f"https://api.github.com/users/{username}/events"
     data = requests.get(url)
     response = data.json()
+    if response["status"] == "404":
+        print("NO SUCH USE EXISTS! TRY AGAIN WITH VALID USERNAME.")
+        return
     n = len(response)
     if n==0:
         print("No user data")
